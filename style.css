@@ -1,0 +1,109 @@
+html {
+	min-height: 100%;
+    }
+
+body {
+    background-image: url(img/smartphone.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#container {
+    width: 850px;
+    height: 630px;
+    background-color: #ffffff;
+    margin: 100px auto;
+}
+
+#left {
+    width: 310px;
+    height: 630px;
+    float: left;
+}
+
+#left h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+#pixel img {
+    padding-left: 39px;
+}
+
+#price {
+    height: 130px;
+    width: 130px;
+    border: 2px solid #6bdce4;
+    border-radius: 100%;
+    margin: 30px auto;
+}
+
+#price p {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+#square {
+    width: 25px;
+    height: 25px;
+    background: #ffffff;
+    transform: rotate(45deg);
+    margin-left: 295px;
+    margin-top: -315px;
+}
+
+#right {
+    width: 540px;
+    height: 630px;
+    background-color: #272727;
+    float: right;
+}
+
+#right h1 {
+    font-size: 30px;
+    padding-left: 25px;
+    color: #6bdce4;
+}
+
+#right h2 {
+    font-size: 25px;
+    padding-left: 25px;
+    color: #828282;
+}
+
+#lineFull {
+    width: 80%;
+    padding-left: 25px;
+}
+
+#expiration {
+    margin-top: 75px;
+}
+
+#cvcText {
+    float: left;
+    width: 15%;
+}
+
+#cvcQuestion {
+    float: left;
+    width: 25px;
+    height: 25px;
+    border: 2px solid #6bdce4;
+    border-radius: 100%;
+    margin-top: 25px;
+}
+
+#cvcQuestion p {
+    color: #828282;
+    font-size: 25px;
+    margin-top: -6px;
+    text-align: center;
+}
+
+.clearfix {
+    clear: both;
+}
