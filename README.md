@@ -21,4 +21,4 @@ Image Credits:
 
 *Pexels* on Pixabay (https://pixabay.com/en/smartphone-technology-mobile-phone-1281632/)
 
-*Iphonedigital on Flickr (https://www.flickr.com/photos/iphonedigital/30266819152)
+*Iphonedigital* on Flickr (https://www.flickr.com/photos/iphonedigital/30266819152)
