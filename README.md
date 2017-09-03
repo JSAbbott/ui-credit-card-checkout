@@ -1,7 +1,7 @@
 UI Design - Credit Card Checkout
 =======
 
-This is a simple UI design and code I made for practicing UI and HTML and CSS coding.
+This is a simple UI credit card checkout design and code I made for practicing UI design and HTML and CSS coding.
 
 ---
 
